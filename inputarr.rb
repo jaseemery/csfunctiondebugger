@@ -1,0 +1,3 @@
+inputarr = {
+    #datahere
+}
